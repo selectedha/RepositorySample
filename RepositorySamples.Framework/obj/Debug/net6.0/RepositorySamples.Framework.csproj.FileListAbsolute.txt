@@ -1,0 +1,12 @@
+F:\Source\Samples\RepositorySamples\RepositorySamples.Framework\obj\Debug\net6.0\RepositorySamples.Framework.csproj.AssemblyReference.cache
+F:\Source\Samples\RepositorySamples\RepositorySamples.Framework\obj\Debug\net6.0\RepositorySamples.Framework.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\Samples\RepositorySamples\RepositorySamples.Framework\obj\Debug\net6.0\RepositorySamples.Framework.AssemblyInfoInputs.cache
+F:\Source\Samples\RepositorySamples\RepositorySamples.Framework\obj\Debug\net6.0\RepositorySamples.Framework.AssemblyInfo.cs
+F:\Source\Samples\RepositorySamples\RepositorySamples.Framework\obj\Debug\net6.0\RepositorySamples.Framework.csproj.CoreCompileInputs.cache
+F:\Source\Samples\RepositorySamples\RepositorySamples.Framework\bin\Debug\net6.0\RepositorySamples.Framework.deps.json
+F:\Source\Samples\RepositorySamples\RepositorySamples.Framework\bin\Debug\net6.0\RepositorySamples.Framework.dll
+F:\Source\Samples\RepositorySamples\RepositorySamples.Framework\bin\Debug\net6.0\RepositorySamples.Framework.pdb
+F:\Source\Samples\RepositorySamples\RepositorySamples.Framework\obj\Debug\net6.0\RepositorySamples.Framework.dll
+F:\Source\Samples\RepositorySamples\RepositorySamples.Framework\obj\Debug\net6.0\refint\RepositorySamples.Framework.dll
+F:\Source\Samples\RepositorySamples\RepositorySamples.Framework\obj\Debug\net6.0\RepositorySamples.Framework.pdb
+F:\Source\Samples\RepositorySamples\RepositorySamples.Framework\obj\Debug\net6.0\ref\RepositorySamples.Framework.dll
