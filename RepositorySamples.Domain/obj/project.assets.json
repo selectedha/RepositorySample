@@ -747,6 +747,20 @@
             "rid": "win"
           }
         }
+      },
+      "RepositorySamples.Framework/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.5",
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "compile": {
+          "bin/placeholder/RepositorySamples.Framework.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RepositorySamples.Framework.dll": {}
+        }
       }
     }
   },
@@ -1938,12 +1952,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "RepositorySamples.Framework/1.0.0": {
+      "type": "project",
+      "path": "../RepositorySamples.Framework/RepositorySamples.Framework.csproj",
+      "msbuildProject": "../RepositorySamples.Framework/RepositorySamples.Framework.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.5",
-      "Newtonsoft.Json >= 13.0.1"
+      "RepositorySamples.Framework >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1953,11 +1971,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\1\\source\\github\\RepositorySamples\\RepositorySamples.Framework\\RepositorySamples.Framework.csproj",
-      "projectName": "RepositorySamples.Framework",
-      "projectPath": "C:\\Users\\1\\source\\github\\RepositorySamples\\RepositorySamples.Framework\\RepositorySamples.Framework.csproj",
+      "projectUniqueName": "C:\\Users\\1\\source\\github\\RepositorySamples\\RepositorySamples.Domain\\RepositorySamples.Domain.csproj",
+      "projectName": "RepositorySamples.Domain",
+      "projectPath": "C:\\Users\\1\\source\\github\\RepositorySamples\\RepositorySamples.Domain\\RepositorySamples.Domain.csproj",
       "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\1\\source\\github\\RepositorySamples\\RepositorySamples.Framework\\obj\\",
+      "outputPath": "C:\\Users\\1\\source\\github\\RepositorySamples\\RepositorySamples.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1977,7 +1995,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\1\\source\\github\\RepositorySamples\\RepositorySamples.Framework\\RepositorySamples.Framework.csproj": {
+              "projectPath": "C:\\Users\\1\\source\\github\\RepositorySamples\\RepositorySamples.Framework\\RepositorySamples.Framework.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -1989,16 +2011,6 @@
     "frameworks": {
       "net6.0": {
         "targetAlias": "net6.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.SqlServer": {
-            "target": "Package",
-            "version": "[6.0.5, )"
-          },
-          "Newtonsoft.Json": {
-            "target": "Package",
-            "version": "[13.0.1, )"
-          }
-        },
         "imports": [
           "net461",
           "net462",

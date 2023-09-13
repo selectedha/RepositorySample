@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QH4J9HvmVZH3P5CLaYtOoWj/58mVCWI7WLHTf/RO8fVrIv0WbAaY3WvhZ+iSFnJwZWclgHT7MLrxg2w8pIhqJA==",
+  "dgSpecHash": "PoYc5l8O6fYCOEHLKXuSUBXcfrWcrzC7OQTqOwKcdgYld1kSnB8mq+kcib0K07IHEL8aBhC/wWaDTAndFb+rhg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\1\\source\\github\\RepositorySamples\\RepositorySamples.Framework\\RepositorySamples.Framework.csproj",
+  "projectFilePath": "C:\\Users\\1\\source\\github\\RepositorySamples\\RepositorySamples.Domain\\RepositorySamples.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\1\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\1\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

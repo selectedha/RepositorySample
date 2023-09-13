@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\1\\source\\repos\\RepositorySample\\RepositorySamples.Framework\\RepositorySamples.Framework.csproj": {}
+    "C:\\Users\\1\\source\\github\\RepositorySamples\\RepositorySamples.Framework\\RepositorySamples.Framework.csproj": {}
   },
   "projects": {
-    "C:\\Users\\1\\source\\repos\\RepositorySample\\RepositorySamples.Framework\\RepositorySamples.Framework.csproj": {
+    "C:\\Users\\1\\source\\github\\RepositorySamples\\RepositorySamples.Framework\\RepositorySamples.Framework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1\\source\\repos\\RepositorySample\\RepositorySamples.Framework\\RepositorySamples.Framework.csproj",
+        "projectUniqueName": "C:\\Users\\1\\source\\github\\RepositorySamples\\RepositorySamples.Framework\\RepositorySamples.Framework.csproj",
         "projectName": "RepositorySamples.Framework",
-        "projectPath": "C:\\Users\\1\\source\\repos\\RepositorySample\\RepositorySamples.Framework\\RepositorySamples.Framework.csproj",
+        "projectPath": "C:\\Users\\1\\source\\github\\RepositorySamples\\RepositorySamples.Framework\\RepositorySamples.Framework.csproj",
         "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1\\source\\repos\\RepositorySample\\RepositorySamples.Framework\\obj\\",
+        "outputPath": "C:\\Users\\1\\source\\github\\RepositorySamples\\RepositorySamples.Framework\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

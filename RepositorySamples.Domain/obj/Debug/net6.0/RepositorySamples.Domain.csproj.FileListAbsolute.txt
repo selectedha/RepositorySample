@@ -1,0 +1,15 @@
+F:\Source\Samples\RepositorySamples\RepositorySamples.Domain\obj\Debug\net6.0\RepositorySamples.Domain.csproj.AssemblyReference.cache
+F:\Source\Samples\RepositorySamples\RepositorySamples.Domain\obj\Debug\net6.0\RepositorySamples.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\Samples\RepositorySamples\RepositorySamples.Domain\obj\Debug\net6.0\RepositorySamples.Domain.AssemblyInfoInputs.cache
+F:\Source\Samples\RepositorySamples\RepositorySamples.Domain\obj\Debug\net6.0\RepositorySamples.Domain.AssemblyInfo.cs
+F:\Source\Samples\RepositorySamples\RepositorySamples.Domain\obj\Debug\net6.0\RepositorySamples.Domain.csproj.CoreCompileInputs.cache
+F:\Source\Samples\RepositorySamples\RepositorySamples.Domain\bin\Debug\net6.0\RepositorySamples.Domain.deps.json
+F:\Source\Samples\RepositorySamples\RepositorySamples.Domain\bin\Debug\net6.0\RepositorySamples.Domain.dll
+F:\Source\Samples\RepositorySamples\RepositorySamples.Domain\bin\Debug\net6.0\RepositorySamples.Domain.pdb
+F:\Source\Samples\RepositorySamples\RepositorySamples.Domain\bin\Debug\net6.0\RepositorySamples.Framework.dll
+F:\Source\Samples\RepositorySamples\RepositorySamples.Domain\bin\Debug\net6.0\RepositorySamples.Framework.pdb
+F:\Source\Samples\RepositorySamples\RepositorySamples.Domain\obj\Debug\net6.0\RepositorySamples.Domain.csproj.CopyComplete
+F:\Source\Samples\RepositorySamples\RepositorySamples.Domain\obj\Debug\net6.0\RepositorySamples.Domain.dll
+F:\Source\Samples\RepositorySamples\RepositorySamples.Domain\obj\Debug\net6.0\refint\RepositorySamples.Domain.dll
+F:\Source\Samples\RepositorySamples\RepositorySamples.Domain\obj\Debug\net6.0\RepositorySamples.Domain.pdb
+F:\Source\Samples\RepositorySamples\RepositorySamples.Domain\obj\Debug\net6.0\ref\RepositorySamples.Domain.dll
