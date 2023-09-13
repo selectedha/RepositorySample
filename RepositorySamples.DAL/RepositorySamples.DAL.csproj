@@ -15,6 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\RepositorySamples.Domain\RepositorySamples.Domain.csproj" />
     <ProjectReference Include="..\RepositorySamples.Framework\RepositorySamples.Framework.csproj" />
   </ItemGroup>
 

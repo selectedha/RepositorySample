@@ -10,3 +10,15 @@ F:\Source\Samples\RepositorySamples\RepositorySamples.Framework\obj\Debug\net6.0
 F:\Source\Samples\RepositorySamples\RepositorySamples.Framework\obj\Debug\net6.0\refint\RepositorySamples.Framework.dll
 F:\Source\Samples\RepositorySamples\RepositorySamples.Framework\obj\Debug\net6.0\RepositorySamples.Framework.pdb
 F:\Source\Samples\RepositorySamples\RepositorySamples.Framework\obj\Debug\net6.0\ref\RepositorySamples.Framework.dll
+C:\Users\1\source\github\RepositorySamples\RepositorySamples.Framework\bin\Debug\net6.0\RepositorySamples.Framework.deps.json
+C:\Users\1\source\github\RepositorySamples\RepositorySamples.Framework\bin\Debug\net6.0\RepositorySamples.Framework.dll
+C:\Users\1\source\github\RepositorySamples\RepositorySamples.Framework\bin\Debug\net6.0\RepositorySamples.Framework.pdb
+C:\Users\1\source\github\RepositorySamples\RepositorySamples.Framework\obj\Debug\net6.0\RepositorySamples.Framework.csproj.AssemblyReference.cache
+C:\Users\1\source\github\RepositorySamples\RepositorySamples.Framework\obj\Debug\net6.0\RepositorySamples.Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\github\RepositorySamples\RepositorySamples.Framework\obj\Debug\net6.0\RepositorySamples.Framework.AssemblyInfoInputs.cache
+C:\Users\1\source\github\RepositorySamples\RepositorySamples.Framework\obj\Debug\net6.0\RepositorySamples.Framework.AssemblyInfo.cs
+C:\Users\1\source\github\RepositorySamples\RepositorySamples.Framework\obj\Debug\net6.0\RepositorySamples.Framework.csproj.CoreCompileInputs.cache
+C:\Users\1\source\github\RepositorySamples\RepositorySamples.Framework\obj\Debug\net6.0\RepositorySamples.Framework.dll
+C:\Users\1\source\github\RepositorySamples\RepositorySamples.Framework\obj\Debug\net6.0\refint\RepositorySamples.Framework.dll
+C:\Users\1\source\github\RepositorySamples\RepositorySamples.Framework\obj\Debug\net6.0\RepositorySamples.Framework.pdb
+C:\Users\1\source\github\RepositorySamples\RepositorySamples.Framework\obj\Debug\net6.0\ref\RepositorySamples.Framework.dll

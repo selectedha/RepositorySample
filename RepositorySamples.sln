@@ -5,9 +5,11 @@ VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RepositorySamples.Framework", "RepositorySamples.Framework\RepositorySamples.Framework.csproj", "{E222D257-A184-4532-A2A7-EB8BB993A6CF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RepositorySamples.Domain", "RepositorySample.Domain\RepositorySamples.Domain.csproj", "{6D2522A3-9409-42FC-A99D-CDD690ACDB7D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RepositorySamples.Domain", "RepositorySamples.Domain\RepositorySamples.Domain.csproj", "{DE6DB140-E382-4460-BD02-7AB48D950DFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositorySamples.DAL", "RepositorySample.DAL\RepositorySamples.DAL.csproj", "{50749A1C-A38B-4532-ADF7-BE26776446B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RepositorySamples.DAL", "RepositorySamples.DAL\RepositorySamples.DAL.csproj", "{AC44F2A0-5934-4155-8031-DAE2FC05C588}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositorySamples.API", "RepositorySamples.API\RepositorySamples.API.csproj", "{D61B869B-36C2-4442-8DD9-8FDAAF85D09A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,14 +21,18 @@ Global
 		{E222D257-A184-4532-A2A7-EB8BB993A6CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E222D257-A184-4532-A2A7-EB8BB993A6CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E222D257-A184-4532-A2A7-EB8BB993A6CF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6D2522A3-9409-42FC-A99D-CDD690ACDB7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6D2522A3-9409-42FC-A99D-CDD690ACDB7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6D2522A3-9409-42FC-A99D-CDD690ACDB7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6D2522A3-9409-42FC-A99D-CDD690ACDB7D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{50749A1C-A38B-4532-ADF7-BE26776446B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{50749A1C-A38B-4532-ADF7-BE26776446B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{50749A1C-A38B-4532-ADF7-BE26776446B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{50749A1C-A38B-4532-ADF7-BE26776446B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE6DB140-E382-4460-BD02-7AB48D950DFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE6DB140-E382-4460-BD02-7AB48D950DFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE6DB140-E382-4460-BD02-7AB48D950DFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE6DB140-E382-4460-BD02-7AB48D950DFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC44F2A0-5934-4155-8031-DAE2FC05C588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC44F2A0-5934-4155-8031-DAE2FC05C588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC44F2A0-5934-4155-8031-DAE2FC05C588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC44F2A0-5934-4155-8031-DAE2FC05C588}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D61B869B-36C2-4442-8DD9-8FDAAF85D09A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D61B869B-36C2-4442-8DD9-8FDAAF85D09A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D61B869B-36C2-4442-8DD9-8FDAAF85D09A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D61B869B-36C2-4442-8DD9-8FDAAF85D09A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
