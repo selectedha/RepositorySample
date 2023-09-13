@@ -3,7 +3,7 @@ using RepositorySamples.Domain.Categories;
 using RepositorySamples.Domain.Products;
 using RepositorySamples.Framework;
 
-namespace RepositorySample.DAL
+namespace RepositorySamples.DAL
 {
     public class RepSampleDBContext : BaseDbContext
     {
