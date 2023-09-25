@@ -1,6 +1,4 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using RepositorySamples.API.Categories;
+﻿using Microsoft.AspNetCore.Mvc;
 using RepositorySamples.Domain.Categories;
 using RepositorySamples.Domain.Common;
 
